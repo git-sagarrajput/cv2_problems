@@ -2,6 +2,7 @@
 ---
 
 **Nested Rectangles Detection Problem**
+Nested rectangles are the one where one rectangle is within the other. Level of nested rectangle would be number of rectangles within the outermost one. Task is to identify the location of rectangles and report their level. Highlight all the rectangles found in the image. Two rectangles will not intersect.
 
 **Project Overview:**
 This project aims to detect nested rectangles in images and report number of nested rectangles present in the current rectangle using both Python and C++ implementations.
